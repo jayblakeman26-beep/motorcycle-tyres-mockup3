@@ -1,9 +1,0 @@
-motorcycle-tyres-mockup/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.jsx
-│   ├── MotorcycleTyresPage.jsx
-│   └── styles.css
-├── package.json
-└── README.md
